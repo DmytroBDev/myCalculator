@@ -37,7 +37,7 @@ int main()
 
     multipleMethod(2, 4);
 
-
+    divideMethod(2, 4);
 }
 
 
