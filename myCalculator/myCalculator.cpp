@@ -21,7 +21,7 @@ float divideMethod(float num1, float num2)
 {
     if (num2 == 0)
     {
-        return;
+        return 0;
     }
 
     return num1 / num2;
