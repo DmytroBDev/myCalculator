@@ -29,7 +29,11 @@ float divideMethod(float num1, float num2)
 
 int main()
 {
-    
+    cout << "It is my first gitCalculator\n";
+
+    plusMethod(2, 4);
+
+
 }
 
 
