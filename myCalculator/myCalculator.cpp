@@ -35,6 +35,8 @@ int main()
 
     minusMethod(2, 4);
 
+    multipleMethod(2, 4);
+
 
 }
 
