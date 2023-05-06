@@ -33,6 +33,8 @@ int main()
 
     plusMethod(2, 4);
 
+    minusMethod(2, 4);
+
 
 }
 
