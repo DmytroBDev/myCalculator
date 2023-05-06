@@ -17,6 +17,16 @@ float multipleMethod(float num1, float num2)
     return num1 * num2;
 }
 
+float divideMethod(float num1, float num2)
+{
+    if (num2 == 0)
+    {
+        return;
+    }
+
+    return num1 / num2;
+}
+
 int main()
 {
     
